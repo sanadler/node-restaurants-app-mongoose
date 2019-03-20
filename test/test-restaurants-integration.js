@@ -209,6 +209,7 @@ describe('Restaurants API resource', function() {
         });
     });
   });
+  
 
   describe('PUT endpoint', function() {
 
